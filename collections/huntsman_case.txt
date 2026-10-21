@@ -1,0 +1,21 @@
+MIL-SPEC
+SSG_08|Slashed (0.15-0.8)
+P2000|Pulse (0-0.6)
+Galil_AR|Kami (0-0.6)
+CZ75-Auto|Twist (0-1)
+P90|Module (0-0.35)
+Tec-9|Isaac (0-1)
+RESTRICTED
+MAC-10|Tatter (0-0.5)
+XM1014|Heaven_Guard (0.03-0.5)
+PP-Bizon|Antique (0-0.5)
+AUG|Torque (0-0.5)
+CLASSIFIED
+SCAR-20|Cyrex (0-0.5)
+USP-S|Caiman (0-0.4)
+M4A1-S|Atomic_Alloy (0-0.9)
+COVERT
+M4A4|Desert-Strike (0-0.7)
+AK47|Vulcan (0-0.9)
+GOLD
+huntsman

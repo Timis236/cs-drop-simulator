@@ -1,0 +1,21 @@
+CONSUMER
+MAG-7|Seabird (0-1)
+M249|Impact_Drill (0-1)
+CZ75-Auto|Army_Sheen (0-0.3)
+SCAR-20|Army_Sheen (0-0.3)
+INDUSTRIAL
+Galil_AR|Urban_Rubble (0-0.5)
+USP-S|Para_Green (0-0.8)
+Desert_Eagle|Night (0.06-0.8)
+MP7|Full_Stop (0-0.6)
+MIL-SPEC
+Five-SeveN|Nitro (0.06-0.8)
+CZ75-Auto|Emerald (0-0.08)
+P250|Whiteout (0.06-0.8)
+MAC-10|Fade (0-0.08)
+RESTRICTED
+Dual_Berettas|Duelist (0-1)
+SG_553|Bulldozer (0.06-0.8)
+CLASSIFIED
+M4A1-S|Hot_Rod (0-0.08)
+Glock-18|Twilight_Galaxy (0-0.2)

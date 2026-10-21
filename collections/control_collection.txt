@@ -1,0 +1,25 @@
+CONSUMER
+MP9|Army_Sheen (0-0.3)
+AUG|Surveillance (0-0.6)
+P250|Forest_Night (0.06-0.8)
+XM1014|Charter (0-0.65)
+CZ75-Auto|Jungle_Dashed (0.06-0.8)
+INDUSTRIAL
+Desert_Eagle|The_Bronze (0-0.3)
+MAG-7|Carbon_Fiber (0-0.12)
+MP5-SD|Nitro (0.06-0.8)
+Dual_Berettas|Switch_Board (0-0.65)
+MIL-SPEC
+P2000|Dispatch (0-0.65)
+SSG_08|Threat_Detected (0-0.65)
+SCAR-20|Magna_Carta (0-0.6)
+M4A4|Global_Offensive (0-0.7)
+RESTRICTED
+UMP-45|Crime_Scene (0-0.75)
+FAMAS|Prime_Conspiracy (0-0.55)
+Five-SeveN|Berries_And_Cherries (0-0.1)
+CLASSIFIED
+USP-S|Target_Acquired (0-0.5)
+M4A1-S|Blue_Phosphor (0-0.08)
+COVERT
+AWP|Fade (0-0.08)

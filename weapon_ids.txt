@@ -1,0 +1,106 @@
+Desert Eagle;1
+Dual Berettas;2
+Five-SeveN;3
+Glock-18;4
+AK-47;7
+AUG;8
+AWP;9
+FAMAS;10
+G3SG1;11
+Galil AR;13
+M249;14
+M4A4;16
+MAC-10;17
+P90;19
+Repulsor Device;20
+MP5-SD;23
+UMP-45;24
+XM1014;25
+PP-Bizon;26
+MAG-7;27
+Negev;28
+Sawed-Off;29
+Tec-9;30
+Zeus x27;31
+P2000;32
+MP7;33
+MP9;34
+Nova;35
+P250;36
+Riot Shield;37
+SCAR-20;38
+SG 553;39
+SSG 08;40
+T Knife;41
+CT Knife;42
+Flashbang;43
+High Explosive Grenade;44
+Smoke Grenade;45
+Molotov;46
+Decoy Grenade;47
+Incendiary Grenade;48
+C4 Explosive;49
+Kevlar Vest;50
+Kevlar + Helmet;51
+Heavy Assault Suit;52
+???;54
+Defuse Kit;55
+Rescue Kit;56
+Medi-Shot;57
+Music Kit;58
+T Knife 2;59
+M4A1-S;60
+USP-S;61
+Trade Up Contract;62
+CZ75-Auto;63
+R8 Revolver;64
+Tactical Awareness Grenade;68
+Bare Hands;69
+Breach Charge;70
+Tablet;72
+CT Knife 2;74
+Axe;75
+Hammer;76
+Wrench;78
+Spectral Shiv;80
+Fire Bomb;81
+Diversion Device;82
+Frag Grenade;83
+Snowball;84
+Bump Mine;85
+Bayonet;500
+Classic Knife;503
+Flip Knife;505
+Gut Knife;506
+Karambit;507
+M9 Bayonet;508
+Huntsman Knife;509
+Falchion Knife;512
+Bowie Knife;514
+Butterfly Knife;515
+Shadow Daggers;516
+Paracord Knife;517
+Survival Knife;518
+Ursus Knife;519
+Navaja Knife;520
+Nomad Knife;521
+Stiletto Knife;522
+Talon Knife;523
+Skeleton Knife;525
+Kukri Knife;526
+Broken Fang Gloves;4725
+Bloodhound Gloves;5027
+Default T Gloves;5028
+Default CT Gloves;5029
+Sport Gloves;5030
+Driver Gloves;5031
+Hand Wraps;5032
+Moto Gloves;5033
+Specialist Gloves;5034
+Hydra Gloves;5035
+Default T Agent;5036
+Default CT Agent;5037
+#CSGO_CustomPlayer_tm_anarchist;5038
+#CSGO_CustomPlayer_tm_anarchist_varianta;5039
+#CSGO_CustomPlayer_tm_anarchist_variantb;5040
+#CSGO_CustomPlayer_tm_anarchist_variantc;5041

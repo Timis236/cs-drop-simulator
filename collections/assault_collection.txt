@@ -1,0 +1,11 @@
+CONSUMER
+SG_553|Tornado (0.06-0.8)
+UMP-45|Caramel (0.06-0.8)
+INDUSTRIAL
+Five-SeveN|Candy_Apple (0-0.3)
+MIL-SPEC
+AUG|Hot_Rod (0-0.08)
+Negev|Anodized_Navy (0-0.08)
+RESTRICTED
+Glock-18|Fade (0-0.08)
+MP9|Bulldozer (0.06-0.8)

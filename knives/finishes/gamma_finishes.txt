@@ -1,0 +1,6 @@
+Autotronic (0-0.85)
+Black_Laminate (0-1)
+Bright_Water (0-0.5)
+Freehand (0-0.48)
+Gamma_Doppler (0-0.08)
+Lore (0-0.65)

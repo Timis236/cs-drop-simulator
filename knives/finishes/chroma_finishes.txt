@@ -1,0 +1,6 @@
+Damascus_Steel (0-0.5)
+Doppler (0-0.08)
+Marble_Fade (0-0.08)
+Rust_Coat (0.4-1)
+Tiger_Tooth (0-0.08)
+Ultraviolet (0.06-0.8)

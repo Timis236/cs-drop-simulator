@@ -1,0 +1,15 @@
+MIL-SPEC
+MP7|Skulls (0.1-0.26)
+AUG|Wings (0-0.14)
+SG_553|Ultraviolet (0.06-0.8)
+RESTRICTED
+USP-S|Dark_Water (0.1-0.26)
+Glock-18|Dragon_Tattoo (0-0.08)
+M4A1-S|Dark_Water (0.1-0.26)
+CLASSIFIED
+Desert_Eagle|Hypnotic (0-0.08)
+AK-47|Case_Hardened (0-1)
+COVERT
+AWP|Lightning_Strike (0-0.08)
+GOLD
+knife_series_1
